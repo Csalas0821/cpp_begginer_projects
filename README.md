@@ -1,18 +1,17 @@
-Made by Carlos Salas Alarcón
 
-# Simple Guessing Game in C++ 23
+# Salas' Begginer Projects
 
-This is a very simple project I used to learn the very basics of cpp and how it generates *random numbers*.
-## Getting it to Work
+Welcome to my humble repository. Here's is where I will publish my first projects in C++ 23. Some are just toy programs and other college projects rewritten from Python, Prolog and MIPS Assembly.
 
-- 1st Option: 
+Now there's: 
+	- Guessing Game
 
-Compile random_num.cpp for linux with:
-<pre>clang++ -std=c++23 -o bin/guess_game_linux random_num.cpp</pre>
+But the following projects will be eventually added:
+	- Binomial Coefficient Calculator
+	- Matrix Multiplication (Dot & Hadamard) Calculator
+	- 8 Queens problem Solver
+	- Tetris Game
+	- Password Generator
+	- A full Chess Engine
 
-Compile for Windows with: \n
-  <pre>x86_64-w64-mingw32-g++ -std=c++23 -o bin/guess_game.exe random_num.cpp</pre>
-
-- 2nd Option:
-
-Just run the corresponding binary (executable) to your OS.
+If you're interesed in more Complex things like AI, GPU Acceleration or Full-Stack Application, stay engaged, because that's what's coming next. It will be lots of fun seeing how I learn CUDA.
